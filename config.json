@@ -1,0 +1,19 @@
+{
+	"token": "ODk5MjM1ODczNDIwMzY5OTQw.YWv0qw.oHjhGa8-8SfO1vw0Ou26Uctvp9k",
+	"dataURL" : "mongodb+srv://murkote:nFy-nxv-5yH-NtD@bots.d6p06.mongodb.net/yupi?retryWrites=true&w=majority",
+	"owners_guild": ["716605340757524503"],
+	"prefix": ".",
+	"owners": ["716605340757524503"],
+	"buyer": ["716605340757524503"],
+	"moderations": ["716605340757524503"],
+	"ticket": ["716605340757524503"],
+	"youtube_api_key": "AIzaSyBEkpJyVSQaLwXMxDy-tS51ydGc_h2Hg7g",
+  	"soundcloud_client_id": "atcX6KFaz2y3iq7fJayIK779Hr4oGArb",
+	"default_volume": 100,
+	"max_playlist_size": 10,
+	"pruning": false,
+	"stay_time": 30,
+	"logs": {
+		"data" : "859760042579066902" 
+	} 
+}
